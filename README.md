@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ayush
+- 👀 I’m interested in learning codes & building softwares...
+- 🌱 I’m currently learning pHP ...
+- 💞️ I’m looking to collaborate on web designing ...
+- 📫 How to reach me follow me on my official instagram account @a.y.u.s.h.m.a.t.h.u.r.
+<!---
+ayush-1313/ayush-1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
